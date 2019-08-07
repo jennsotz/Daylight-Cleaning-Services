@@ -30,7 +30,7 @@ body {background-color: blueviolet;
 
 .nav-bar ul {
            
-            padding-left: -100px;
+            padding-left: 100px;
 }
 .nav-bar ul li{
     display: inline;
