@@ -30,7 +30,7 @@ body {background-color: blueviolet;
 
 .nav-bar ul {
            
-            padding-left: 100px;
+            padding-left: 400px;
 }
 .nav-bar ul li{
     display: inline;
@@ -55,11 +55,13 @@ body {background-color: blueviolet;
     }
 
 .logo {float: left;
+        padding-left: 60px;
     
        
     }
 .titleimage {
           float: left;
+          
             
         }
 #about {color:yellow;}
